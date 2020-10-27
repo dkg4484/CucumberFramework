@@ -8,3 +8,5 @@ Feature: Scenario Outlines feature file
       | Scenario Outline Row 1 |
       | Scenario Outline Row 2 |
       | Scenario Outline Row 3 |
+      | Scenario Outline Row 4 |
+      | Scenario Outline Row 5 |
